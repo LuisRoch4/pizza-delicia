@@ -1,3 +1,4 @@
+
 #Site Pizza Delícia
 
 ##Sobre o site
@@ -6,4 +7,5 @@ Este repositorio serve apenas como teste para exercicíos de utilização do git
 
 ##Autores
 
-Desenvolvimento pela Zuleika
+Desenvolvimento pela Zuleika e pelo Pafúncio
+
