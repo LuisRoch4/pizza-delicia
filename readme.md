@@ -5,7 +5,10 @@
 
 Este repositorio serve apenas como teste para exercicíos de utilização do git em conjunto com o GitHUB
 
-##Prints de tela
+## Prints de tela
+
+![Print de tela inicial](https://github.com/LuisRoch4/pizza-delicia/blob/master/miniaturas/img-titulos.png)
+
 
 ## Autores
 
